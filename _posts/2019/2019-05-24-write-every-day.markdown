@@ -19,7 +19,7 @@ He's also written about [this idea on his blog](https://seths.blog/2012/12/write
 
 This hit home. Because I don't write often, my expectations for each blog post continue to go up. It has to be perfect. It has to be funny. It has to be poignant. It has to be unnassailable. It has to withstand every and all criticism. These are impossible goals!
 
-Not only that, because I'm not writing often, I'm also not improving as much as I could be. The more I write, the better I'll get. Sure I'll write a ton of crap, but every now and them, a gem will appear in all that crap.
+Not only that, because I'm not writing often, I'm also not improving as much as I could be. The more I write, the better I'll get. Sure I'll write a ton of crap, but every now and then, a gem will appear in all that crap.
 
 So I plan to make a commitment to write every day. Will I _publish_ every day? Well, this brings me to another realization I had while reading [Nadia Eghbal's post on GitHub Sponsors](https://nadiaeghbal.com/github-sponsors).
 
